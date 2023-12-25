@@ -13,10 +13,4 @@ How to Play
 4. Repeat the sequence by clicking on the colored buttons.
 5. If you successfully repeat the sequence, Simon will add another color to the sequence.
 6. Continue playing and try to beat your high score.
-Game Logic
-The game starts when any key is pressed.
-Simon will display a sequence of colors, and the player must repeat the sequence.
-If the player successfully repeats the sequence, Simon adds another color.
-The game continues until the player makes a mistake.
-The player's score is based on the number of successfully completed levels.
-  
+
